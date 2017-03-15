@@ -15,7 +15,7 @@ author :
   github : kbroman
   twitter : kwbroman
   feedburner : nil
-site: safe
+safe: 1
 
 production_url : https://syounkin.github.io/kbroman.github.io
 BASE_PATH : https://syounkin.github.io/kbroman.github.io
