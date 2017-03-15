@@ -16,7 +16,7 @@ author :
   twitter : kwbroman
   feedburner : nil
 
-production_url : http://kbroman.github.io
+production_url : https://kbroman.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -31,18 +31,18 @@ JB :
   # Links in your website should always be prefixed with {{BASE_PATH}}
   # however this value will be dynamically changed depending on your deployment situation.
   #
-  # CNAME (http://yourcustomdomain.com)
+  # CNAME (https://yourcustomdomain.com)
   #   DO NOT SET BASE_PATH
   #   (urls will be prefixed with "/" and work relatively)
   #
-  # GitHub Pages (http://username.github.io)
+  # GitHub Pages (https://username.github.io)
   #   DO NOT SET BASE_PATH
   #   (urls will be prefixed with "/" and work relatively)
   #
-  # GitHub Project Pages (http://username.github.io/project-name)
+  # GitHub Project Pages (https://username.github.io/project-name)
   #
   #   A GitHub Project site exists in the `gh-pages` branch of one of your repositories.
-  #  REQUIRED! Set BASE_PATH to: http://username.github.io/project-name
+  #  REQUIRED! Set BASE_PATH to: https://username.github.io/project-name
   #
   # CAUTION:
   #   - When in Localhost, your site will run from root "/" regardless of BASE_PATH
@@ -55,10 +55,10 @@ JB :
   #
   # Override this by defining an absolute path to assets here.
   # ex:
-  #   http://s3.amazonaws.com/yoursite/themes/watermelon
+  #   https://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  # ASSET_PATH : http://kbroman.org/assets/themes/twitter
+  # ASSET_PATH : https://kbroman.org/assets/themes/twitter
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
