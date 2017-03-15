@@ -15,9 +15,9 @@ author :
   github : kbroman
   twitter : kwbroman
   feedburner : nil
+site: safe
 
 production_url : https://syounkin.github.io/kbroman.github.io
-
 BASE_PATH : https://syounkin.github.io/kbroman.github.io
 
 # Tell Github to use the kramdown markdown interpreter
